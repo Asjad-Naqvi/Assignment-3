@@ -1,0 +1,358 @@
+3468322375,Stardew Valley,CraigJohnson,Byrd LLC,82.03115408844072,4171898
+3584218103,Evil Dead The Game,Fox PLC,Long Johns and Blackburn,4.4929323150797345,4197659
+7442373216,Civilization V,Gonzalez Jones and Mccoy,Harris Lee and Flores,91.30601280652198,6386652
+9410009774,Need for Speed Heat,Santos Heath and Jordan,Andrews Cook and Ortiz,39.78736774984979,1773542
+2464012745,Metro 2033 Redux,Atkinson and Sons,Mathis Wu and Hawkins,61.13317877244075,9241449
+9662931091,Mario Kart 8 Deluxe,Stevens Johnson and Bell,MitchellFlores,81.26125337105927,1928680
+7133427613,Anno 1800,JonesFernandez,Ortiz Tran and Smith,27.11571002003786,5605562
+0897595211,Mafia Definitive Edition,Jones LLC,Weaver Inc,41.48576618968574,1735922
+4549564131,Final Fantasy VII Remake,HallSpencer,Peterson Group,70.15806084298795,6144843
+6502796537,Planet Zoo,WaltonPorter,Taylor Bowers and Patton,53.5625195866521,5306410
+1430799396,Just Cause 3,Mullins Ford and Bolton,West LLC,8.651228588251703,9097964
+3342553389,RollerCoaster Tycoon 3,BirdLewis,Barron and Sons,56.9455068997345,7387236
+0674024084,WRC 10,Simmons Wells and Arnold,Lee Inc,9.811385241929903,1452833
+2336445137,Elden Ring,ZamoraRodriguez,Jones Schmidt and Hayes,13.892914162431241,5784725
+0575557421,Resident Evil 2,Cunningham Thompson and Davis,Padilla Ltd,56.530867787777524,2564248
+0189853114,Jurassic World Evolution,Mayer Nelson and Franklin,Brown Ltd,7.14470251621663,922481
+2263348179,Cities Skylines,Patrick Rosario and Davis,Morris Ltd,42.78747264821572,8635658
+8849333283,Fallout 3,Johnson Stevens and Allen,Riley Ltd,21.295214944417967,8410927
+7482586002,Stellaris,Thompson Robertson and Macdonald,Valentine Ltd,17.580430974111472,3456490
+7410979718,PUBG,SpenceAnderson,Mullins Adams and Allen,51.73015298380302,9372701
+0379222918,Halo Infinite,Sutton Doyle and Henderson,WestGonzalez,46.43453546449292,7190492
+5341335360,The Legend of Heroes Trails in the Sky the 3rd,Downs PLC,Arnold Woods and Chan,25.775773089379882,5466760
+2677536717,Watch Dogs 2,Stout Ltd,Bass Hughes and Anderson,74.53445703892325,9034752
+4706758632,The Escapists,Smith Bell and Vaughn,AndersonRich,35.47082780521082,3507088
+3045279634,War Thunder,Moore LLC,Brown Adams and Allen,31.632998692327444,2446086
+9424689761,Mortal Kombat 11,Smith Dean and Rodriguez,Hunt Barry and Morris,72.92611944306367,7956143
+0215229962,Tales of Arise,LutzBecker,Foster Bean and Newton,75.19997237340408,1083369
+4972367026,IL2 Sturmovik Great Battles,Ford Johnson and Martinez,Gillespie LLC,89.60276812325544,2382983
+4195791382,Shovel Knight,Maxwell Downs and Hill,Sloan Wood and Keith,41.43523660343185,2053111
+4551301297,Planet Coaster,Soto LLC,WilkinsBranch,85.74783574276618,2173873
+9721733099,Assassins Creed Origins,Murphy LLC,Pope Brown and Morris,92.08084268258705,2110825
+0919346913,Sid Meiers Civilization III,ThompsonMorgan,AndersonAdams,37.35895103613756,5471237
+6214490858,Portal,RiosMyers,Rivera Ltd,47.27645833146673,7556649
+1858869820,Age of Empires IV,Donaldson Barnes and Fox,MeadowsParker,78.5199234677804,8761274
+9975456776,Trackmania,Ware Harrison and Harris,DorseyOrtiz,72.66492102290513,3236189
+3667310249,The Witcher 2 Assassins of Kings,BurgessSmith,ButlerCastaneda,43.72187302220388,3388869
+6946056996,Hearts of Iron IV,HamiltonStanley,Campos Group,92.13381276920167,762339
+5483586892,Sifu,King Henderson and Flores,Hart Oliver and Davis,59.22784323909041,1698676
+1242053089,Lovers in a Dangerous Spacetime,Morales Gonzales and Lambert,Lewis Edwards and Murphy,23.543620780857633,8285039
+4918970916,Tropico 6,Jones Mcbride and Nguyen,Quinn PLC,49.75129223603428,918172
+3248388770,Valorant,Bray Stout and Harrison,Garcia Rodriguez and Brown,12.74464511004439,176422
+5702426916,BioShock Infinite,Walsh LLC,WarrenHurst,16.400989170762443,520498
+7921906508,Dyson Sphere Program,AlexanderRogers,Gutierrez Black and Garrison,69.49592255651521,5134908
+7431499251,Donkey Kong Country Tropical Freeze,WallsKim,Harvey Simmons and Chavez,0.5225348942572092,2785433
+1128900650,Overcooked 2,Mcclain Tapia and Manning,BakerCochran,11.890240027840433,1469794
+8139098873,Post Scriptum,EverettPerez,Bennett Kelly and Downs,77.78855847499318,3913546
+2990053436,Age of Empires III,StanleyOwens,Miller Stewart and Luna,86.13059305915205,7029820
+1685791888,Shin Megami Tensei V,JohnsonAndersen,Hamilton Group,64.08054298972144,9603066
+6052647827,Overcooked All You Can Eat,GreenPatterson,HubbardHatfield,48.8836183099554,5286103
+1239580023,Northgard,Burns Ltd,HunterWright,45.44505986034267,3040391
+5926192517,Fall Guys,Murphy Ramirez and Liu,MccormickSparks,89.83765484997845,4255311
+9831245499,Among Us,OwenPerry,Miller Inc,95.06621542351242,276755
+6056243431,Microsoft Flight Simulator,Rubio Wallace and Vazquez,ChapmanSchmitt,46.13663179839679,5438976
+6434091359,Tom Clancys Splinter Cell Conviction,HuffmanOconnor,Williams Edwards and Evans,41.502679380393054,7160968
+3325878309,A Way Out,ThompsonCarlson,SheltonPage,33.1061914882405,516191
+7383997344,Far Cry 3,HendersonRice,ToddHogan,97.1308992040122,8253103
+4290101079,HalfLife 2,RuizMendoza,Ellis PLC,4.442961353388174,8369811
+2824435763,Red Dead Redemption 2,WilsonSosa,Brock and Sons,73.6784213176783,3333199
+5269498694,Theme Park,MooreWilliams,Thompson and Sons,4.001935844363551,6064908
+9003342124,Crash Team Racing NitroFueled,EverettPerez,Moore Harper and Jackson,35.27038625251809,8207418
+3511188532,Total War Rome II,ValenciaSkinner,Dalton Moss and Austin,83.3034991876227,911960
+0265740748,The Elder Scrolls IV Oblivion,KingMarshall,Jenkins Perez and Norris,90.49286905263472,9908194
+1591678454,Mafia III,Mills PLC,Estrada Group,94.94715259090094,2891769
+1962665796,Dota 2,Knight Flowers and Bean,Dixon White and Ibarra,56.1175367612248,1599408
+1313743653,Super Smash Bros Ultimate,WoodFoster,Morgan Jones and Barber,66.14515825942965,1035748
+1426987509,Neverwinter Nights Enhanced Edition,Downs PLC,OsbornBrewer,73.28694510972902,808925
+2417742442,Resident Evil 7 Biohazard,HurleyPratt,HerreraHudson,93.96687380378441,6271042
+0751559980,Baldurs Gate Enhanced Edition,JohnsonSchmidt,Cruz Lopez and Rogers,95.38570862359938,4649682
+8065968335,Sid Meiers Civilization IV,AndersonJones,NunezCherry,53.7761055513311,3593616
+0570069804,Dishonored,PetersenColon,Gillespie LLC,7.885281720767159,7494655
+7515948133,Dragon Age Inquisition,HartLopez,Hernandez PLC,15.133394173781337,5426084
+6454794372,XPlane 11,StrongSmith,Martinez Porter and Cabrera,20.74375705727581,5333535
+3148067646,Tom Clancys Ghost Recon Wildlands,Brooks Howard and Sparks,FisherWalker,33.31206592731084,8536937
+3856687740,Wipeout,Baker Montoya and Brown,Lynn Inc,68.54902125815431,6184301
+8078710135,Gears of War 4,Richmond and Sons,Ward Group,51.65285367263547,8620937
+0711235027,Shadowrun Dragonfall,Mack Hicks and Horn,Matthews Arnold and Valencia,93.58891663807759,798980
+6327802080,FTL Faster Than Light,MillerFisher,Perez Daniels and Cooley,56.867337382022136,8410203
+1459771648,XCOM Enemy Unknown,Lane Alexander and Campbell,Velasquez Group,93.44024821350028,6434445
+4704202878,Apex Legends,Parks Taylor and Sullivan,Watson Patton and Carlson,75.08421787492838,3143406
+4079698076,Risk of Rain 2,CooperPoole,GriffinRodriguez,13.937684253771211,8790170
+6266946678,Green Hell,Best Farmer and Foster,Wilson Inc,42.882576014987016,8746259
+3248966833,The Sims 3,FisherLewis,CampbellAdams,59.855028748207225,4589261
+0091619438,Satisfactory,MooreHorn,Turner Matthews and Henry,67.30785199481036,707356
+3269995415,Max Payne 3,Gonzales PLC,GriffinBlackwell,36.293246662500394,2900400
+5890962008,Cuphead,FosterMejia,Mathews Camacho and Wallace,59.77028434589233,2367957
+2873612442,Into the Breach,JonesCordova,Mcdonald and Sons,2.0522476720746585,9539537
+9172958468,Dead Space,WeissMaldonado,Hamilton Lopez and Rodriguez,44.09061793633449,8245536
+0935228347,Need for Speed Hot Pursuit Remastered,Smith Drake and Howard,Griffin Buckley and Brown,52.65584050329554,5125177
+0245417619,DayZ,Norris Group,Blake Lindsey and Phillips,9.062963490792512,9865312
+8272461814,Mass Effect Legendary Edition,JamesThompson,ChapmanWhite,31.196991488742043,4957125
+6687568399,Call of Duty Modern Warfare,Gillespie PLC,BuckKent,70.42320805001464,452133
+0532940228,Madden NFL 21,Mejia Group,ButlerThomas,44.89342410187703,9087799
+7555264688,Phoenix Point,SmithGlenn,Nichols Ltd,90.94587932774336,4173562
+7266201466,Theme Hospital,Hudson Moore and Patel,Meadows Harris and Boyd,0.7566517748281466,2067810
+8278796122,NBA 2K21,Ward LLC,Chavez and Sons,96.09154457937662,6139702
+6706561373,Escape from Tarkov,Murphy Krause and Richardson,AllenHarris,7.998409758604449,5088255
+3503124347,Sekiro Shadows Die Twice,WalkerYoung,Warren Haley and Reilly,33.36624944096096,1768485
+5184771081,Mass Effect Andromeda,Ramirez Craig and Smith,Sandoval and Sons,55.78729207333469,6679571
+0510903478,Final Fantasy XIII,FreemanWilliams,Cunningham Richardson and Strickland,47.16836770273819,938798
+6678545084,The Division 2,MartinAnderson,Gardner Terry and Casey,9.190561052548604,1073936
+6036585673,Kirby Star Allies,Ibarra Lowe and Carter,Owens Guerrero and Gonzales,82.08363532625201,8007417
+0073021187,Minecraft,StanleyOwens,MurraySmall,85.7115420005951,2589424
+6280619642,Ori and the Will of the Wisps,Brown Sandoval and Mcknight,Calhoun Parker and Sanchez,11.024628678951453,8267637
+4884268182,Fallout New Vegas,Kim Group,PattersonRubio,45.1972966386248,5912680
+5216207152,The Long Dark,Herman Group,Mosley and Sons,17.43946707970119,7083048
+0468886410,Red Dead Revolver,JohnsonLane,Singh Group,72.95638161677302,8011472
+6255496407,Assassins Creed Odyssey,OwenFerrell,Underwood Reyes and Walls,95.94354251176556,6628810
+4865540976,Ni no Kuni II,PearsonDiaz,Kelley LLC,31.816971789801762,6151889
+2030110351,Divinity Original Sin,Norman Atkinson and Swanson,Wilson PLC,66.00187501278324,7889390
+4527231753,Tales of Berseria,Delgado Lynn and Nguyen,Price Bradley and Hoover,96.61833651698804,253875
+0791204210,Hades,GregoryStrickland,HarrisSanchez,48.07189103228654,8914689
+4663055374,Jurassic World Evolution 2,Knight Cook and Wilkins,FoleyFoley,4.438873657093802,3817016
+1253062731,Dark Souls,Oliver Wade and Cordova,Daugherty and Sons,39.42432650291249,1162316
+4033154533,Paper Mario The Origami King,MitchellStevens,Mitchell Phillips and Rogers,91.83269143226502,7101885
+3785284288,Burnout Revenge,ChambersGibbs,PayneWhitehead,41.699081063557344,9664256
+7797232472,The Legend of Heroes Trails of Cold Steel II,BarnesVilla,Duarte Ltd,6.4550762646786275,6556146
+0370851257,Battlefield 2042,White LLC,Lopez Rodriguez and Lopez,21.89715380727202,4921168
+1359665947,Divinity Original Sin II,Pearson and Sons,Baldwin PLC,88.9726072152402,1974477
+5243450712,Forza Horizon 5,Rogers Morgan and Jones,MckeeHunt,85.46261846230213,6790467
+6876593272,The Binding of Isaac,Johnson Reyes and Brown,Mata Higgins and Brown,2.552900219279648,6995286
+4108365825,Hitman 3,RhodesTurner,Mcdonald Franklin and Olson,78.07720270873557,25221
+0601887946,Dead Cells,Buckley Group,Nguyen Huerta and Powell,62.1761365569926,5038499
+6846679450,Splatoon,Davidson PLC,SuttonRomero,66.02484087521832,6481660
+8138625679,Just Cause 4,Estrada LLC,Morales Haley and Farmer,16.692011266373097,4499801
+6194454219,Starcraft II,Wilkinson Weber and Parker,WardThompson,9.743854869139307,7742706
+4222146246,ARMS,Smith Daugherty and Alvarez,Washington Johnson and Hernandez,13.953521858388838,8559545
+2176699586,Far Cry 5,Frank and Sons,HoltDean,29.389060732421708,3911954
+2425812923,Super Mario Odyssey,Johnston Smith and Miller,Riddle LLC,32.7919600628585,8821337
+4431535163,Guilty Gear Strive,Torres LLC,Sherman Miller and Walls,5.692031643681003,695220
+6617828175,Persona 5,Scott Inc,HornGillespie,33.932836313082916,144845
+2742050799,Total War Three Kingdoms,Jones Burgess and Richardson,Ellis Washington and Hall,87.55487137239076,2196157
+4976586575,Sea of Thieves,FosterStone,Pierce Lee and Lynch,91.13959067527651,2695328
+5902473082,Far Cry 6,McmillanLyons,Singh LLC,38.77523777988061,7201840
+3705882825,Unravel Two,Stephenson Williams and Shaw,Watts Group,7.371673789213504,6795607
+7520287581,CounterStrike Global Offensive,HollowayPollard,Lee Thomas and Perez,86.98885157174428,2864661
+1046027411,Company of Heroes 2,PinedaRiley,KingGarcia,54.20302019890715,9185781
+2647792078,The Witcher 3 Wild Hunt,Berg Ltd,WilliamsHart,65.69017322742684,5079335
+0246058694,Valkyria Chronicles 4,Davis Rodriguez and Allen,AlexanderArmstrong,62.76531593700734,6791342
+5383707734,F1 2021,Ramirez Group,MillerJohnson,42.7920521195466,6875626
+7871771035,Shadowrun Returns,Kramer Romero and Jones,Dixon Bruce and Wright,98.94479429053347,3865105
+0194814723,Dragon Quest XI,Robinson and Sons,Duarte Ltd,49.17883725344681,4841628
+5066161569,The Legend of Zelda Breath of the Wild,Leach Villanueva and Cantrell,Klein Norton and Baker,26.511572379523706,1875144
+8966862093,7 Days to Die,Fox Massey and Reynolds,Wallace LLC,23.26967359583111,1920649
+2626288466,Project CARS 3,Trujillo and Sons,Hayden Ferrell and Chang,90.61277252316783,6761033
+8670543899,Zoo Tycoon,White Thomas and Rogers,Moore Williams and Martin,89.65339406185082,8321156
+5997507629,Pillars of Eternity,Neal Perez and Gardner,MurphyCampbell,47.5392813296043,3076322
+0994611845,League of Legends,Fisher Ramirez and Wilson,FletcherEspinoza,3.751742877782828,9807894
+6998611735,Silent Hill 2,BlanchardHunter,Boyd Group,22.10907665767049,2832549
+4141126793,Planetfall,Byrd Group,Martinez Bowman and Terry,47.74588055444831,3550148
+1673101472,The Crew,SaundersSteele,Patel PLC,98.6163322886648,1887875
+4943598832,Journey,Romero Ltd,Armstrong Ltd,9.031485085393749,3989313
+0295105307,Nioh 2,Hicks and Sons,HunterWolfe,13.455116073981223,8546670
+8466825101,Factorio,ClarkRoss,Weber Lawson and Wilson,91.75334376098508,4360437
+1495743140,Squad,PriceAvila,BurgessJones,80.97098511520515,8404046
+2771574741,Bravely Default II,HoltBooker,MossSmith,68.41870343936566,7205931
+6205746405,Overwatch,WongMiller,Hardy Group,7.1020919106975295,5861385
+5722301281,Gears Tactics,Barker LLC,Hudson Grant and Bennett,84.86901217976958,5853933
+1327648770,The Sims,TaylorBrown,LopezSoto,47.72958863030759,1561166
+3952068722,Age of Mythology,Hicks Group,Roberts Buck and Mcfarland,47.97492763883345,2239269
+5051364588,Octopath Traveler,MccartyFrederick,Alvarez Hill and Norman,52.76064456552989,2616560
+6472268628,Fitness Boxing 2,Dean Ltd,Wheeler Wood and Mueller,69.44162386847836,8342160
+7709453573,Prison Architect,FischerGross,Cruz Banks and Scott,20.845131768380654,8686301
+1659535720,This War of Mine,MaxwellNguyen,WeberMorrison,97.50267456982445,7158417
+6453488605,Pillars of Eternity II Deadfire,Weber Group,StewartBrandt,99.8867197012626,4785666
+7318860016,Two Point Hospital,Newman Group,Olsen Parks and Roberts,84.40666462309572,2074541
+5284311825,Civilization VI,Buchanan Davis and Williams,Russell LLC,40.00830616665836,3107237
+7241775950,Ring Fit Adventure,LyonsMartin,Simpson Brown and Cox,65.33160562137402,5531040
+9172734582,Fallout 4,HunterMolina,Hanson Ltd,11.339474788173248,2818588
+3590261896,The Quarry,KingOliver,CastilloKelley,31.321824834737132,4299756
+9042582058,Hunt Showdown,Owens Ltd,BellClark,31.431534804947514,5572394
+0257690951,God of War,Morris Group,Rios Pierce and Cherry,1.9535444444095926,8689724
+9413383930,It Takes Two,Cantrell Hodges and Johns,Franklin Inc,44.64574403459201,8110587
+6400847151,Tropico 5,Swanson LLC,Villegas Hernandez and Gomez,75.39422439860758,6074810
+4445557369,Far Cry 4,Reese Diaz and Mora,BaileyWeiss,87.78850488762643,5300390
+1548780917,Baldurs Gate II Enhanced Edition,Sellers Inc,Carroll Group,94.18893535496824,9664171
+8913739064,Final Fantasy XV,Wall LLC,Taylor Myers and Bartlett,92.77611481477348,5804409
+2836959007,Rust,Wright Group,FreemanGuzman,31.064165037888184,2431290
+5526312345,Star Citizen,HansenFuentes,Charles Harris and Wheeler,29.204605500628052,2594606
+9807281651,Hitman 2,Green Chavez and Morrison,Harmon Pineda and Young,67.30705591493198,8912551
+2522013704,Enter the Gungeon,MeadowsBryan,CarterMacias,71.46241410544333,1180730
+6370791208,Fortnite,Jones LLC,AdamsRangel,93.35824780502394,4581509
+2782547628,Wipeout Omega Collection,RamseyFranklin,Johnson Wood and Fritz,18.507421779417868,3022242
+9141869012,Celeste,King Merritt and Nichols,Franklin Weber and Smith,68.73258066879043,2575139
+0367731766,Kerbal Space Program,McintoshErickson,Greene LLC,63.367860965782505,6182449
+6184008240,Icewind Dale Enhanced Edition,Mendoza Flores and Smith,MasonFranklin,75.48683228309545,942830
+5941453508,BioShock,Gomez Group,Singleton Chandler and Jones,51.424941150222146,332327
+4972657856,Company of Heroes,SanfordKing,Cortez Hines and Johnson,92.55584185076381,9299794
+5052096347,Metro Exodus,Saunders PLC,NguyenOwens,27.2852865493782,8288641
+5238365116,World of Tanks,Andersen LLC,Mcdonald Jones and Walker,21.68144527740327,6301351
+3399821124,Death Stranding,HallSherman,SellersFisher,16.775982916227598,4800740
+1868750751,Banished,TannerJohns,Jimenez Group,16.853047461893297,2459927
+8976299375,The Forest,MurphyDavis,Irwin Pineda and Jones,66.18198938249257,2146981
+6458827464,Team Fortress 2,Norman and Sons,Patterson Group,66.39946321794152,1396899
+2678490827,Halo The Master Chief Collection,Bright Group,GuerraWatson,39.35564841349656,3564812
+1158706442,Yoshis Crafted World,Ramirez Ltd,Foster Bean and Newton,69.34872026502003,6871553
+1854854201,Terraria,Gardner Cain and Berry,Martinez Estrada and Roy,92.73516653159189,6668657
+5810388372,Twisted Metal,LutzSnyder,Torres Richardson and Haynes,33.43973343125982,2022210
+7442874221,BattleTech,VargasJones,AndersonClark,29.634929744090044,2986879
+2661878746,Shadow of the Colossus,Jones Gutierrez and Ramos,Peck and Sons,68.73987734108839,8680662
+8379811784,Animal Crossing New Horizons,RodriguezCastillo,Copeland Inc,38.0987396632028,3152237
+5870443769,The Crew 2,Parks Inc,PatrickNovak,22.4609373994297,7800029
+2975140417,Splatoon 2,Thomas Rodgers and Martin,GarciaTaylor,84.15781814265256,5954855
+5912817385,Age of Wonders Planetfall,BridgesGordon,Marshall Inc,1.6165552607459717,9626666
+6540730806,CyberConnect2s Fugue on the Battlefield,Lamb Inc,HarveyAnderson,27.16987995447404,1721614
+6901903876,Bloodborne,Kline and Sons,BrownMiller,98.48509116670994,8463016
+2352184933,Total War Shogun 2,Webster Ltd,Cox Coleman and Chen,35.02363576682958,9151566
+6251904934,Baldurs Gate III,RiosMyers,Gonzalez Davis and Oliver,55.87360766484987,4710161
+9467633109,The Last of Us,MerrittMcdaniel,BaileyNelson,84.35806158529574,3538942
+6552283253,Gears 5,JamesJohnson,Simmons Mccullough and Bridges,97.81104027785645,2369082
+6587537323,Hollow Knight,Villegas Vaughn and Brooks,Myers Ltd,32.405881684468724,2289588
+0792200440,Halo Reach,Collins and Sons,Harvey Simmons and Chavez,97.32338586326492,8561947
+3388740060,The Witcher,LawrenceJefferson,DavisFlores,10.475392670053198,3664767
+8045405837,Humankind,SullivanMoore,MorrisSmith,36.10167523428115,7102002
+0287608323,The Elder Scrolls III Morrowind,Bright Group,Collier Hodges and Anderson,9.59020622037488,6458051
+9526813801,Disco Elysium,Cameron Velez and Jones,Becker LLC,76.60893522203439,1615989
+3904996890,Tannenberg,Casey Phillips and Owens,Powell Inc,5.492939034176858,2678079
+3703607818,Nuclear Throne,Roberts Allen and Brown,Oneill Paul and Rodriguez,95.65156896963263,8265313
+0533242523,Horizon Zero Dawn,WashingtonKline,Luna Smith and Preston,12.334678343519016,659273
+6645471723,The Banner Saga 2,Sellers Inc,BarnesSimpson,9.604912758124613,7171730
+8304897701,Spelunky 2,Golden Little and Warren,Parks and Sons,9.354884720945398,5915015
+5238525686,Crusader Kings III,Blake Garcia and Ward,Baldwin Waters and Ray,63.768001831648114,3755719
+0878906097,World of Warcraft,SimpsonJackson,WatsonAlvarado,31.522374993916547,3152556
+3636541655,Watch Dogs Legion,Lee Lewis and Gaines,Novak Nguyen and Gonzales,95.91598549376134,746739
+3232052446,Dont Starve,Vega Torres and Obrien,Klein Ltd,71.64640222428771,3911454
+3883339915,The Legend of Heroes Trails of Cold Steel IV,White Hopkins and Smith,Mercado Harris and Glenn,76.52882925461329,3334803
+1724027895,Crusader Kings II,MccarthyJones,Rojas Garcia and Williams,89.1543088863566,14268
+5355623347,Endless Legend,RobertsTyler,Gray Wells and Carpenter,22.33402510829615,7385554
+6599410978,The Sims 2,Massey PLC,SmithPratt,5.372513804381299,4276907
+2527435255,Super Mario Maker 2,Moss Mcintyre and Medina,CarrMeyer,89.07065029836109,7320372
+3716979064,Moving Out,Black Murphy and Bowers,Jacobs and Sons,71.4160867402264,8713769
+2282533691,FIFA 23,Jackson and Sons,Ryan Obrien and Pham,54.6315028812819,4358413
+4875374406,Europa Universalis IV,MillerFisher,Turner Ltd,16.95709692204622,975981
+1047079459,Portal 2,Ware LLC,PerezRobinson,85.27157591752315,904147
+4068380588,Monster Hunter World,English Nichols and Dunn,Chambers Fisher and Roberts,74.6989267788473,3897084
+4991400074,Valkyria Chronicles,Doyle Murphy and Parsons,Sanchez Garrison and Walsh,65.13276084397036,4745851
+1248737441,Sonic  AllStars Racing Transformed,PriceOsborne,Silva PLC,49.51462451023184,2261017
+3189048108,New Super Mario Bros U Deluxe,Wilkerson and Sons,Shaw Fisher and Stewart,50.835132242874174,5916536
+3559773727,No Mans Sky,WilliamsGarrett,Newton Patterson and Hunt,15.138738007186342,925663
+4149307234,Rocket League,Garcia Schroeder and Holmes,ReynoldsBrown,16.299787479701422,4988103
+9939345866,Tom Clancys The Division,NelsonPerry,TurnerBishop,38.0850233402293,2199843
+8185055176,Avorion,Boyer Ltd,Hahn Marquez and Chandler,69.2500257022292,1537497
+6027135991,STALKER Shadow of Chernobyl,Smith Rivera and Carter,Jensen Palmer and Hoffman,78.78671917995993,5260435
+9768362756,Diablo III,Underwood Inc,Simmons Castillo and Wright,69.4098607775906,7322392
+7761102771,Frostpunk,Fuentes Taylor and Davis,LandryWallace,3.9956107992297896,4349998
+6630358283,Driveclub,Price Inc,Flores PLC,77.4024005906992,5225607
+5482554790,Wasteland 2,Young Nicholson and Johnson,HuntOlson,9.812994085430542,6187234
+6459135548,The Sims 4,Blake Henry and Wilkerson,DavisScott,24.758961778383604,33300
+2193638904,Tekken 7,Murray Butler and Smith,Aguirre Cooper and Kramer,27.76862527725982,3001590
+6582889038,Surviving Mars,RobertsAnderson,Conrad Melendez and Martinez,91.0423004246001,5707584
+8766970563,RollerCoaster Tycoon 2,Miller Ltd,Gonzalez Haney and King,26.350274789145846,342506
+7514939617,Street Fighter V,Jordan LLC,BrownValdez,11.148254172231017,2083745
+0863832018,The Legend of Heroes Trails in the Sky SC,Velez Jackson and Pierce,Gomez Cabrera and Ward,40.209548745269124,3929346
+0996591608,Dirt 5,RhodesOsborne,Villa Walters and Nelson,45.19689659876789,4824049
+0747810225,Sid Meiers Civilization V,Aguilar Perez and Jones,Hall Inc,49.66450925898497,6571846
+9830623993,DCS World,Hill PLC,YoungGentry,83.54847928319715,1138343
+1830377360,Star Wars Jedi Fallen Order,Larsen Group,Bass and Sons,17.098644522335505,2734657
+6556012291,Verdun,Hughes Davis and Myers,Villa Walters and Nelson,18.7462519716268,5587969
+4339738676,The Escapists 2,CummingsTaylor,Odom Crawford and Harris,60.80253079791354,7660071
+5648997664,Elite Dangerous,WardCrawford,Adams Inc,36.03858881380566,7287260
+1467446379,Just Dance 2021,Simmons Group,Herrera LLC,16.88684909717774,4666261
+9357830267,Resident Evil 3,Hebert Ltd,Brennan Martin and Harris,3.089278594492999,7573928
+3110515667,ARK Survival Evolved,NelsonPerry,Dunn Dean and Harris,4.1342254270280225,562064
+1004667904,Cyberpunk 2077,GarciaWilcox,MedinaHunt,53.72559963966426,1246360
+2423819194,Command  Conquer Remastered Collection,JenkinsHill,MooreFrazier,49.75297424665744,2006755
+4899538957,Sid Meiers Civilization VI,Robles PLC,Hughes Smith and Chambers,20.350253495224297,1992994
+5691997240,Control,Quinn and Sons,Adams Aguilar and Turner,2.4132142570522452,8256457
+3442870357,Yakuza Like a Dragon,Mathis Walters and Moss,BrooksBarker,58.33138322313682,9571594
+9640285917,Super Mario Party,Hayes Medina and Larson,Lopez Garcia and Montgomery,52.41901430542856,6130970
+4410828952,Age of Empires II Definitive Edition,Montgomery Clay and Gutierrez,Miles Group,24.307987719348912,6218655
+3297823773,Metro Last Light,Moore Smith and Riley,ManningDavis,21.370637950175343,8911861
+8297252770,Need for Speed Most Wanted,MooreBrown,JarvisMontoya,52.70770091779113,6258439
+7119332463,Metal Gear Solid V,RamseyFranklin,OliverShort,27.42032307291369,4199548
+7958281704,Rainbow Six Siege,Escobar PLC,Wu Thompson and Andrews,41.09461428041851,6160345
+4359649418,XCOM 2,Bennett PLC,Taylor Inc,76.72354210288704,596827
+2294594490,Spelunky,Kim and Sons,Hicks Group,97.69511309042747,3561086
+1668458433,Undertale,Davis Duncan and Clark,Keith Inc,92.61667337161428,9395281
+4158179823,Dragon Age Origins,AndersonChase,Olsen Parks and Roberts,49.84290514614595,3299946
+4418168381,Conan Exiles,Smith Suarez and Herring,WhiteheadMarshall,39.90962164760552,3272618
+9357350773,Halo 3,Wright LLC,Miller York and Ryan,55.65707854878845,3787166
+2054847683,Destiny 2,BruceHarris,Mullins Adams and Allen,58.205394990834186,8630248
+8523451661,Xenoblade Chronicles 2,JonesSmith,HuffBrown,66.05666987986064,4406510
+9019507034,The Banner Saga,GonzalezClark,BlackWilson,1.3502057783232584,8214818
+5583757119,Resident Evil Village,WilliamsJordan,Hicks Group,79.0555658812337,9869952
+5308483222,Risk of Rain,Arnold Contreras and Hamilton,Fisher PLC,12.644125875460343,9297043
+6552435187,Alan Wake,Howard Group,Valentine Mason and White,44.69607935816387,2864320
+5287611775,Stranded Deep,Valdez Inc,JohnsonWilliams,13.362334520902586,6588932
+7659216917,Need for Speed Payback,Williams LLC,JacobsHuffman,38.8857023085152,1608029
+3533835775,Grounded,Molina Ltd,Glenn PLC,16.448351622636388,5251907
+8425235826,Raft,Lee Neal and Cook,Wilson Thornton and Frazier,79.28310135484628,3781625
+1203286210,STALKER Clear Sky,SuttonVargas,Hahn Gibson and Ritter,8.311854676705437,3707845
+6197147755,Ys VIII Lacrimosa of Dana,Cook and Sons,GrahamDawson,91.59217284958515,7730979
+9583986542,Command  Conquer 3,Perry LLC,Myers PLC,42.66483501721024,4992450
+8371810236,The Legend of Heroes Trails in the Sky FC,Stevens Hughes and Ward,LopezDunlap,70.87685797445785,4796586
+7054585928,Super Mario 3D World,SpenceAnderson,Flores Wood and Arnold,32.493117200606676,1023896
+8539307824,Planescape Torment Enhanced Edition,ThomasWilson,SchwartzNichols,59.42245464415831,9079596
+0338277783,Arma 3,WatsonCampbell,BeckerMartin,26.305194000236572,7426500
+1081381859,Gran Turismo 7,West and Sons,MorganReed,44.747677548070605,1661024
+4299585947,RollerCoaster Tycoon,TaylorBrown,CookBeard,67.73925706038453,1589877
+3122099716,STALKER Call of Pripyat,Bentley Medina and Vance,AlexanderRodriguez,37.65818687603391,7376690
+4329614021,Hitman,Hicks and Sons,Greene Young and Lindsey,98.54451370183985,8452610
+7860123307,Ghost of Tsushima,ChaseVillanueva,Wells Woodward and Lopez,2.8963314740426958,5310491
+3871533699,Dying Light 2,Soto and Sons,Park Ltd,44.0705559786468,1393733
+9198307898,Starfield,MosleyWeeks,AbbottKelly,11.80164348550692,4101745
+3353168402,Soulcalibur VI,Gallegos Green and Washington,Mclean White and Sanchez,21.47988079509587,9391913
+5892912178,Resident Evil 4,Thomas Group,HuberPeterson,65.02878329442153,9477248
+3997227121,Wasteland 3,Gates Dalton and Mcgrath,DanielsSmith,5.603285122608224,823163
+2070247772,Burnout Paradise Remastered,ColonPatterson,BeasleyAllen,76.9382301514175,3533198
+1484763234,Dragon Age II,Klein Scott and Moreno,HoltMendez,90.91018456618475,4348228
+3097491666,Hell Let Loose,YorkGonzalez,SextonMiller,59.33184131066111,2947799
+9831286229,Evolve,Serrano Ltd,Harvey Simmons and Chavez,20.848585143013707,6809472
+1640765435,The Elder Scrolls V Skyrim,LongLang,LarsonSimpson,58.38600395423619,8708844
+3442718971,Space Engineers,Smith Mcintyre and Nguyen,Burnett and Sons,70.48036731385707,5396715
+9880784187,Age of Wonders III,BlackCook,Freeman and Sons,69.99131304469546,4938771
+6958084417,Grand Theft Auto V,DownsFitzgerald,Tate LLC,84.63897182890611,3262523
+7126076144,Total War Warhammer II,RiggsOlson,Browning Johnson and Nguyen,69.03205595695039,9322762
+8116308837,The Outer Worlds,Oliver Walker and Thomas,Kent Ltd,43.865593266583126,6437187
+5067627559,Madden NFL 23,HarveySalas,WilsonKing,89.28606003621333,7847485
+7545336146,SpiderMan Miles Morales,BentonMoore,ArmstrongSanchez,26.40126707298718,1354576
+1182341078,Tyranny,Hernandez Inc,Garcia Day and Smith,6.651383481240636,1414
+2899987194,Oxygen Not Included,Casey and Sons,Vasquez Kidd and Mitchell,34.88886328754308,5675624
+9189928649,RimWorld,Williams Lewis and Thompson,Martin LLC,75.43185341931382,3180939
+7880246398,Tetris Effect,MooreHunter,Salas Shaw and Stevenson,21.218479480367023,3951304
+4992486910,FIFA 21,MosleyWeeks,TerrellEstrada,61.31137949723789,4764071
+2557228798,Fallout 76,Powell Foster and Duke,Blevins Ltd,44.99287991783563,8005193
+8710444171,Watch Dogs,Gomez Underwood and Hernandez,HernandezOneal,75.01073157865514,4807025
+5706869708,Jagged Alliance 2,Santana Olsen and Barton,Cook Graham and Martinez,34.67891632943195,4439504
+9895156771,Fire Emblem Three Houses,Jones Torres and King,WardThompson,14.51213112592575,8489037
+3773770734,Assassins Creed Valhalla,RileyLynch,Hamilton Barry and Foster,94.75896717005297,1011821
+0099365483,The Banner Saga 3,WeeksJimenez,Reeves Ltd,41.559431507700424,3693293
+9807073113,Warframe,Reeves Group,SmithSmith,79.75077479833885,9722551
+2897644548,PES 2021,Allen Johnson and Barry,ValdezSmith,1.5136343922084128,6010494
+5110869915,Torment Tides of Numenera,Wong Perez and Harrison,Patrick LLC,75.88399848414726,7804851
+0037236794,NBA 2K23,Bailey PLC,KingCamacho,64.84742262946591,1858555
+8599598044,Splinter Cell Blacklist,WilliamsContreras,HintonShaw,3.534416219191029,2202707
+0387873375,Ori and the Blind Forest,Martin Dunn and Rose,Johnson Thompson and Bell,35.83839484247021,7699386
+5532806739,The Legend of Heroes Trails of Cold Steel III,Evans Inc,NovakHester,75.9889109182792,1971614
+7559223065,Prey,ClarkWilliams,Kim PLC,48.65897396517571,9295925
+9127798173,Slay the Spire,FreemanGonzalez,Elliott Hahn and Hanson,71.08011109895187,3144437
+8852600265,Horizon Forbidden West,HigginsFranklin,VasquezWang,13.934306290712323,4958176
+5110818874,Rise of Nations,MooreFlores,JamesRiley,40.495744733430904,3170488
+8324045707,Gran Turismo Sport,MurrayTaylor,WatsonRamirez,54.48216273405346,5911232
+2808526767,Final Fantasy XIV,Carpenter Patterson and Johnson,Pena Flores and Bass,85.54597028194574,620660
+4646820932,MotorStorm,Watts Jackson and Freeman,Rivera Ltd,69.4057673917214,635191
+0272876068,Endless Space 2,Sutton Doyle and Henderson,FryeOwens,32.813083103044,194564
+4326830479,F1 2022,Allen Mack and Day,Campbell Moran and Allen,5.024940087201297,1181076
+8096627841,Xenoblade Chronicles,Bridges PLC,IrwinShea,40.29399113914111,1808200
+5673396505,The Legend of Heroes Trails of Cold Steel,Smith Mitchell and Chavez,Jones Salas and Meyer,29.210268513389174,2660317
+4566500128,Total War Warhammer III,Tate Group,Martin Garcia and Cross,83.06397218277183,5954095
+2090205874,World of Warships,Mckay Inc,PowellHill,88.67185881079726,2235184
+0195752496,Borderlands 3,BarkerWang,Hamilton Russell and Thompson,4.9119056912999195,8920674
+9889964213,Command  Conquer Red Alert 3,MonroeRivera,SheltonPage,78.95345761714488,1197676
+6760802598,Puyo Puyo Tetris,Parker Group,Coleman Nelson and Peters,62.52989443140016,9141767
+2567046725,Mutant Year Zero Road to Eden,Lopez Vasquez and Mendoza,GoldenMorris,69.57298601582674,1030364
+6343632067,The Witcher 3,Dominguez LLC,ThomasSchultz,68.22362259697228,8047422
+2166789013,Luigis Mansion 3,RobertsonLloyd,CaseyTaylor,12.012396754475795,5880946
+2659419726,Subnautica,Alvarez PLC,BrownWilliams,53.827821453526866,8477269
+2172238648,Insurgency Sandstorm,SavageEvans,Stephenson Shaw and Lester,93.6883398468093,5441023
+8388182962,Anno 2205,Eaton Ltd,Carter Hines and Hernandez,89.87966085638303,6008375
