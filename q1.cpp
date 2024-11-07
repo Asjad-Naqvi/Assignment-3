@@ -227,3 +227,17 @@ public:
         gameTree.displayLayers(n);
     }
 };
+
+int main()
+{
+    GameDBMS dbms;
+    dbms.loadGames("games.txt");
+
+    dbms.searchGame("3584218103");     // Search for a game by ID
+    dbms.deleteGame("3584218103");     // Delete a game by ID
+    dbms.saveGames("saved_games.csv"); // Save all games to CSV
+
+    dbms.showLayers(2); // Show up to N layers
+
+    return 0;
+}
