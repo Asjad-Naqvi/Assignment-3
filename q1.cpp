@@ -57,7 +57,59 @@ struct GameNode
     GameNode(const Game &g) : data(g), left(nullptr), right(nullptr) {}
 };
 
+class GameTree
+{
+    GameNode *root;
 
+    // Helper function for insertion
+    GameNode *insertNode(GameNode *node, const Game &data)
+    {
+        if (!node)
+            return new GameNode(data);
+        if (data.gameID < node->data.gameID)
+            node->left = insertNode(node->left, data);
+        else if (data.gameID > node->data.gameID)
+            node->right = insertNode(node->right, data);
+        else
+            cout << "Conflict: Game ID already exists.\n";
+        return node;
+    }
 
+    // Helper function for search
+    GameNode *searchNode(GameNode *node, const string &gameID) const
+    {
+        if (!node || node->data.gameID == gameID)
+            return node;
+        if (gameID < node->data.gameID)
+            return searchNode(node->left, gameID);
+        return searchNode(node->right, gameID);
+    }
 
+    // Helper function for deletion
+    GameNode *deleteNode(GameNode *node, const string &gameID)
+    {
+        if (!node)
+            return node;
+        if (gameID < node->data.gameID)
+            node->left = deleteNode(node->left, gameID);
+        else if (gameID > node->data.gameID)
+            node->right = deleteNode(node->right, gameID);
+        else
+        {
+            if (!node->left)
+                return node->right;
+            else if (!node->right)
+                return node->left;
+            GameNode *temp = minValueNode(node->right);
+            node->data = temp->data;
+            node->right = deleteNode(node->right, temp->data.gameID);
+        }
+        return node;
+    }
 
+    GameNode *minValueNode(GameNode *node)
+    {
+        while (node && node->left)
+            node = node->left;
+        return node;
+    }
