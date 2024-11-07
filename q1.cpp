@@ -113,3 +113,56 @@ class GameTree
             node = node->left;
         return node;
     }
+
+public:
+    GameTree() : root(nullptr) {}
+
+    void insert(const Game &data)
+    {
+        root = insertNode(root, data);
+    }
+
+    GameNode *search(const string &gameID) const
+    {
+        return searchNode(root, gameID);
+    }
+
+    void remove(const string &gameID)
+    {
+        root = deleteNode(root, gameID);
+    }
+
+    // Preorder traversal to save to CSV
+    void preorderTraversal(GameNode *node, ofstream &out) const
+    {
+        if (node)
+        {
+            out << node->data.gameID << "," << node->data.name << "," << node->data.developer << ","
+                << node->data.publisher << "," << node->data.rating << "," << node->data.downloads << "\n";
+            preorderTraversal(node->left, out);
+            preorderTraversal(node->right, out);
+        }
+    }
+
+    void saveToCSV(const string &filename) const
+    {
+        ofstream out(filename);
+        preorderTraversal(root, out);
+        out.close();
+    }
+
+    // Display N Layers of the tree
+    void displayLayers(GameNode *node, int currentLayer, int maxLayers) const
+    {
+        if (!node || currentLayer > maxLayers)
+            return;
+        cout << "Layer " << currentLayer << ": " << node->data.gameID << "\n";
+        displayLayers(node->left, currentLayer + 1, maxLayers);
+        displayLayers(node->right, currentLayer + 1, maxLayers);
+    }
+
+    void displayLayers(int n) const
+    {
+        displayLayers(root, 1, n);
+    }
+};
