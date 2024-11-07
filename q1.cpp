@@ -56,3 +56,8 @@ struct GameNode
 
     GameNode(const Game &g) : data(g), left(nullptr), right(nullptr) {}
 };
+
+
+
+
+
