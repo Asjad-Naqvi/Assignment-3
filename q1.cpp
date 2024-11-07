@@ -156,7 +156,7 @@ public:
     {
         if (!node || currentLayer > maxLayers)
             return;
-        cout << "Layer " << currentLayer << ": " << node->data.gameID << "\n";
+        cout << "Layer " << currentLayer << ": " << node->data.gameID << "Developer Name  " << node->data.developer << "Game Name" << node->data.name << "Game Publisher" << node->data.publisher << "\n";
         displayLayers(node->left, currentLayer + 1, maxLayers);
         displayLayers(node->right, currentLayer + 1, maxLayers);
     }
@@ -166,7 +166,6 @@ public:
         displayLayers(root, 1, n);
     }
 };
-
 class GameDBMS
 {
     GameTree gameTree;
@@ -202,6 +201,12 @@ public:
         }
     }
 
+    // Add a new game to the game tree
+    void addGame(const Game &game)
+    {
+        gameTree.insert(game);
+    }
+
     // Query Functions
     void searchGame(const string &gameID)
     {
@@ -227,17 +232,38 @@ public:
         gameTree.displayLayers(n);
     }
 };
-
 int main()
 {
     GameDBMS dbms;
+
+    cout << "Loading games from 'games.txt'...\n";
     dbms.loadGames("games.txt");
 
-    dbms.searchGame("3584218103");     // Search for a game by ID
-    dbms.deleteGame("3584218103");     // Delete a game by ID
-    dbms.saveGames("saved_games.csv"); // Save all games to CSV
+    cout << "\nSearching for game with ID '3584218103':\n";
+    dbms.searchGame("3584218103");
 
-    dbms.showLayers(2); // Show up to N layers
+    cout << "\nSearching for game with ID '1234567890':\n";
+    dbms.searchGame("1234567890");
+
+    cout << "\nAdding a new game...\n";
+    Game newGame("9876543210", "Elden Ring", "From Software", "Bandai", 4.5, 15000);
+    // dbms.gameTree.insert(newGame);
+
+    cout << "\nSearching for the newly added game with ID '9876543210':\n";
+    dbms.searchGame("9876543210");
+
+    cout << "\nDeleting game with ID '3584218103'...\n";
+    dbms.deleteGame("3584218103");
+
+    cout << "\nSearching for game with ID '3584218103' after deletion:\n";
+    dbms.searchGame("3584218103");
+
+    cout << "\nSaving current games to 'saved_games.csv'...\n";
+    dbms.saveGames("saved_games.csv");
+
+    int displayLayers = 3;
+    cout << "\nDisplaying the first " << displayLayers << " layers of the game tree:\n";
+    dbms.showLayers(displayLayers);
 
     return 0;
 }
