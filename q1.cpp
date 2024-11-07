@@ -166,3 +166,64 @@ public:
         displayLayers(root, 1, n);
     }
 };
+
+class GameDBMS
+{
+    GameTree gameTree;
+
+public:
+    // Load data from CSV files
+    void loadGames(const string &filename)
+    {
+        ifstream file(filename);
+        string line;
+        while (getline(file, line))
+        {
+            string id, name, dev, pub, rating, downloads;
+            size_t pos = 0;
+            pos = line.find(",");
+            id = line.substr(0, pos);
+            line.erase(0, pos + 1);
+            pos = line.find(",");
+            name = line.substr(0, pos);
+            line.erase(0, pos + 1);
+            pos = line.find(",");
+            dev = line.substr(0, pos);
+            line.erase(0, pos + 1);
+            pos = line.find(",");
+            pub = line.substr(0, pos);
+            line.erase(0, pos + 1);
+            pos = line.find(",");
+            rating = line.substr(0, pos);
+            line.erase(0, pos + 1);
+            downloads = line;
+
+            gameTree.insert(Game(id, name, dev, pub, stod(rating), stoi(downloads)));
+        }
+    }
+
+    // Query Functions
+    void searchGame(const string &gameID)
+    {
+        GameNode *result = gameTree.search(gameID);
+        if (result)
+            cout << "Game found: " << result->data.name << "\n";
+        else
+            cout << "Game not found.\n";
+    }
+
+    void deleteGame(const string &gameID)
+    {
+        gameTree.remove(gameID);
+    }
+
+    void saveGames(const string &filename)
+    {
+        gameTree.saveToCSV(filename);
+    }
+
+    void showLayers(int n)
+    {
+        gameTree.displayLayers(n);
+    }
+};
