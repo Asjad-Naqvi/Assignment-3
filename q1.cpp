@@ -45,6 +45,19 @@ struct Player
         newGame->next = games;
         games = newGame;
     }
+
+    // Count number of games played by the player
+    int countGames() const
+    {
+        int count = 0;
+        GameScore *current = games;
+        while (current)
+        {
+            count++;
+            current = current->next;
+        }
+        return count;
+    }
 };
 
 // --- Node structure for Binary Search Tree ---
@@ -166,11 +179,18 @@ public:
         displayLayers(root, 1, n);
     }
 };
+
+// DBMS Class with Player Management
 class GameDBMS
 {
-    GameTree gameTree;
+private:
+    Player *players[100]; // Fixed-size array for players (up to 100 players)
+    int numPlayers;
 
 public:
+    GameTree gameTree;
+    GameDBMS() : numPlayers(0) {}
+
     // Load data from CSV files
     void loadGames(const string &filename)
     {
@@ -207,6 +227,20 @@ public:
         gameTree.insert(game);
     }
 
+    // Add a new player
+    void addPlayer(const Player &player)
+    {
+        if (numPlayers < 100)
+        {
+            players[numPlayers] = new Player(player);
+            numPlayers++;
+        }
+        else
+        {
+            cout << "Maximum number of players reached.\n";
+        }
+    }
+
     // Query Functions
     void searchGame(const string &gameID)
     {
@@ -231,23 +265,115 @@ public:
     {
         gameTree.displayLayers(n);
     }
+
+    void showPlayerDetails(const string &playerID)
+    {
+        bool found = false;
+        for (int i = 0; i < numPlayers; i++)
+        {
+            if (players[i]->playerID == playerID)
+            {
+                found = true;
+                Player &player = *players[i];
+                cout << "Player Name: " << player.name << "\n";
+                cout << "Player Contact: " << player.contact << "\n";
+                cout << "Player Email: " << player.email << "\n";
+                cout << "Games Played:\n";
+                GameScore *current = player.games;
+                while (current)
+                {
+                    GameNode *gameNode = gameTree.search(current->gameID);
+                    if (gameNode)
+                    {
+                        cout << "- " << gameNode->data.name << " (Score: " << current->score << ")\n";
+                    }
+                    current = current->next;
+                }
+                break;
+            }
+        }
+        if (!found)
+        {
+            cout << "Player not found.\n";
+        }
+    }
+
+    void checkPlayerHasPlayed(const string &playerID, const string &gameID)
+    {
+        bool found = false;
+        for (int i = 0; i < numPlayers; i++)
+        {
+            if (players[i]->playerID == playerID)
+            {
+                found = true;
+                Player &player = *players[i];
+                GameScore *current = player.games;
+                while (current)
+                {
+                    if (current->gameID == gameID)
+                    {
+                        cout << "Player has played the game " << gameID << "\n";
+                        return;
+                    }
+                    current = current->next;
+                }
+                cout << "Player has not played the game " << gameID << "\n";
+                break;
+            }
+        }
+        if (!found)
+        {
+            cout << "Player not found.\n";
+        }
+    }
+
+    // Show top N players by the number of games played
+    void topNPlayers(int N)
+    {
+        for (int i = 0; i < numPlayers; i++)
+        {
+            Player &player = *players[i];
+            cout << player.playerID << " (Games Played: " << player.countGames() << ")\n";
+        }
+    }
 };
+
 int main()
 {
     GameDBMS dbms;
 
-    cout << "Loading games from 'games.txt'...\n";
-    dbms.loadGames("games.txt");
+    // Load games data from the CSV file
+    dbms.loadGames("Games.txt");
 
-    cout << "\nSearching for game with ID '3584218103':\n";
-    dbms.searchGame("3584218103");
+    // Add a new player
+    Player player("0291782995", "Ali ASjad", "032937458834", "0291782995@nu.edu.pk");
+    dbms.addPlayer(player);
 
-    cout << "\nSearching for game with ID '1234567890':\n";
-    dbms.searchGame("1234567890");
+    // Add game scores for the player
+    player.addGameScore("3584218103", 50.8);
+    player.addGameScore("3269995415", 32.4);
+    player.addGameScore("7442373216", 76.5);
+
+    dbms.showPlayerDetails("0291782995");
+
+    // Check if a specific player has played a game
+    dbms.checkPlayerHasPlayed("0291782995", "9876543210");
+
+    // Show top N players by the number of games played
+    dbms.topNPlayers(1);
+
+    // Saving the updated games database to a CSV file
+    dbms.saveGames("UpdatedGames.csv");
+
+    cout << "\nSearching for game with ID '9721733099':\n";
+    dbms.searchGame("9721733099");
+
+    cout << "\nSearching for game with ID '3667310249':\n";
+    dbms.searchGame("3667310249");
 
     cout << "\nAdding a new game...\n";
-    Game newGame("9876543210", "Elden Ring", "From Software", "Bandai", 4.5, 15000);
-    // dbms.gameTree.insert(newGame);
+    Game newGame("9876543210", "ghost of tsushima", "suckerpunch", "Bandai", 4.5, 15000);
+    dbms.gameTree.insert(newGame);
 
     cout << "\nSearching for the newly added game with ID '9876543210':\n";
     dbms.searchGame("9876543210");
