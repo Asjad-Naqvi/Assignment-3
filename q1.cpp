@@ -4,7 +4,6 @@
 
 using namespace std;
 
-// Structures for Game and Player Data
 struct Game
 {
     string gameID;
@@ -33,12 +32,11 @@ struct Player
     string name;
     string contact;
     string email;
-    GameScore *games; // Linked list of games and scores
+    GameScore *games;
 
     Player(string id, string n, string c, string e)
         : playerID(id), name(n), contact(c), email(e), games(nullptr) {}
 
-    // Add a game to the player's list
     void addGameScore(string gameID, double score)
     {
         GameScore *newGame = new GameScore(gameID, score);
@@ -46,7 +44,6 @@ struct Player
         games = newGame;
     }
 
-    // Count number of games played by the player
     int countGames() const
     {
         int count = 0;
@@ -60,7 +57,6 @@ struct Player
     }
 };
 
-// --- Node structure for Binary Search Tree ---
 struct GameNode
 {
     Game data;
@@ -164,7 +160,6 @@ public:
         out.close();
     }
 
-    // Display N Layers of the tree
     void displayLayers(GameNode *node, int currentLayer, int maxLayers) const
     {
         if (!node || currentLayer > maxLayers)
@@ -345,7 +340,6 @@ int main()
     // Load games data from the CSV file
     dbms.loadGames("Games.txt");
 
-    // Add a new player
     Player player("0291782995", "Ali ASjad", "032937458834", "0291782995@nu.edu.pk");
     dbms.addPlayer(player);
 
@@ -359,10 +353,8 @@ int main()
     // Check if a specific player has played a game
     dbms.checkPlayerHasPlayed("0291782995", "9876543210");
 
-    // Show top N players by the number of games played
     dbms.topNPlayers(1);
 
-    // Saving the updated games database to a CSV file
     dbms.saveGames("UpdatedGames.csv");
 
     cout << "\nSearching for game with ID '9721733099':\n";
